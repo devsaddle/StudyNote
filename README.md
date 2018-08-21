@@ -46,6 +46,7 @@
 * [深入理解Objective-C：Category](https://tech.meituan.com/DiveIntoCategory.html) --(美团)
 * [objc category的秘密](http://blog.sunnyxx.com/2014/03/05/objc_category_secret/)
 * [结合 category 工作原理分析 OC2.0 中的 runtime](https://juejin.im/post/57a133587db2a2005a736c08)  --(bestswifter)
+* [Objective-C Category 的实现原理](http://blog.leichunfeng.com/blog/2015/05/18/objective-c-category-implementation-principle/)
 
 ## KVC & KVO 
 * [Objective-C中的KVC和KVO](http://yulingtianxia.com/blog/2014/05/12/objective-czhong-de-kvche-kvo/) --(杨潇玉)
