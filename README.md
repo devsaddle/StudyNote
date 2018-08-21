@@ -37,9 +37,10 @@
 ## 多线程
 * [深入理解GCD](https://bestswifter.com/deep-gcd/) --(bestswifter)
 * [深入理解 iOS 开发中的锁](https://bestswifter.com/ios-lock/)  --(bestswifter)
-* [关于 @synchronized](http://yulingtianxia.com/blog/2015/11/01/More-than-you-want-to-know-about-synchronized/)
+* [关于 @synchronized()](http://yulingtianxia.com/blog/2015/11/01/More-than-you-want-to-know-about-synchronized/)
+* [多线程同步锁@synchronized()](http://mrpeak.cn/blog/synchronized/) --(Peak)
 * [线程到底是什么？](https://niyaoyao.github.io/2017/05/10/what-the-thread-it-is/)
-
+* [atomic](http://mrpeak.cn/blog/ios-thread-safety/) --(Peak)
 
 ## Category
 * [深入理解Objective-C：Category](https://tech.meituan.com/DiveIntoCategory.html) --(美团)
